@@ -8,3 +8,6 @@
 
 [Session2: Intro to AI](https://docs.google.com/presentation/d/1urthniaD8YxFmkjoaQmzWahN6E94bsoK/edit?usp=sharing&ouid=108067746190305778838&rtpof=true&sd=true)
 
+## Day 2--June 28, Wednesday
+[Intro to NLP slides](https://docs.google.com/presentation/d/11wkk3da8BAitrgN_ab6b32DvU7C6Ccw_/edit?usp=sharing&ouid=105111448754032719430&rtpof=true&sd=true)
+
