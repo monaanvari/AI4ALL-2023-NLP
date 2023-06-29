@@ -12,3 +12,7 @@
 [Python Notebook 1](https://colab.research.google.com/drive/16u1R4a_esZ1B6993HoUlZPdgKiFspVDs?usp=sharing#scrollTo=dIX2pxeOWSU4) <br /> 
 [Python Notebook 2](https://colab.research.google.com/drive/1UzT1wjKcLY0p9fCX8o5RiwtOrvRK_vx6?usp=sharing)<br /> 
 
+## Day 4--June 29, Thursday
+[Python Notebook 3](https://colab.research.google.com/drive/1Kyc_8D5UZziUB8Am-0yRZ2jovOks2Gzg?usp=sharing)    
+[Python Notebook 4](https://colab.research.google.com/drive/1KAOWPjO7Ek3dFnqw-Vz6ceaJc9tOdw11?usp=sharing)
+
