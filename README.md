@@ -16,6 +16,9 @@
 [Python Notebook 3](https://colab.research.google.com/drive/1Kyc_8D5UZziUB8Am-0yRZ2jovOks2Gzg?usp=sharing)    
 [Python Notebook 4](https://colab.research.google.com/drive/1KAOWPjO7Ek3dFnqw-Vz6ceaJc9tOdw11?usp=sharing)
 
+## Day 5--Jun3 30, Friday
+[Introduction to NLP slides](https://docs.google.com/presentation/d/11wkk3da8BAitrgN_ab6b32DvU7C6Ccw_/edit#slide=id.p1).   
+[Rule Based Classifier Notebook](https://colab.research.google.com/drive/1tWKKrZVm2LE2BM5ha0BWXmgzuVU2IxEJ?authuser=1)
 
 ## Day 6--July 3, Monday
 [Evaluation Metrics slides](https://docs.google.com/presentation/d/1MXTq_ljw6YmIpsxdOSk_m0tfZYjPnJlH/edit?usp=sharing&ouid=105111448754032719430&rtpof=true&sd=true)<br />
