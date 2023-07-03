@@ -16,3 +16,9 @@
 [Python Notebook 3](https://colab.research.google.com/drive/1Kyc_8D5UZziUB8Am-0yRZ2jovOks2Gzg?usp=sharing)    
 [Python Notebook 4](https://colab.research.google.com/drive/1KAOWPjO7Ek3dFnqw-Vz6ceaJc9tOdw11?usp=sharing)
 
+
+## Day 6--July 3, Monday
+[Evaluation Metrics slides](https://docs.google.com/presentation/d/1MXTq_ljw6YmIpsxdOSk_m0tfZYjPnJlH/edit?usp=sharing&ouid=105111448754032719430&rtpof=true&sd=true)<br />
+[Evaluation Metrics Notebook](https://colab.research.google.com/drive/1SnMa4yYj5M5jzTtYWIEzEeAm8r50p9WM?usp=sharing)<br /> 
+[Precision/Recall/F1 Exercise Worksheet](https://docs.google.com/document/d/1bB_VVF49Y514-5QH1TR2UKYZ7Pf4XDW5PHI8gU1eD3E/edit?usp=sharing)<br /> 
+
