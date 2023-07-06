@@ -25,3 +25,7 @@
 [Evaluation Metrics Notebook](https://colab.research.google.com/drive/1SnMa4yYj5M5jzTtYWIEzEeAm8r50p9WM?usp=sharing)<br /> 
 [Precision/Recall/F1 Exercise Worksheet](https://docs.google.com/document/d/1bB_VVF49Y514-5QH1TR2UKYZ7Pf4XDW5PHI8gU1eD3E/edit?usp=sharing)<br /> 
 
+## Day 7--July 5, Wednesday
+[Conditional Probability and Naive Bayes](https://docs.google.com/presentation/d/1hT8khHz0yb7wPJewjF5PtGygGXr5y25s/edit?usp=sharing&ouid=108067746190305778838&rtpof=true&sd=true
+)<br />
+[Naive Bayes Notebook](https://colab.research.google.com/drive/1YA7nXpqcdlPPn6LyaDyKnLMSngebA6kI?usp=sharing)
