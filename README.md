@@ -33,3 +33,7 @@
 ## Day 8--July 6, Thursday
 [Data Representation](https://docs.google.com/presentation/d/1m7hNsyyvOn0sGsBp5EWZpegs0JEq6q_G/edit#slide=id.p1)<br /> 
 [Ngram and Language Model Notebook](https://drive.google.com/file/d/1tx94FcX-oEds4RTILIHTaI-_NhGvIX9A/view?usp=sharing)
+
+## Day 9--July 7, Friday
+[Clustering Slides](https://docs.google.com/presentation/d/1Xg7m8c8uY4onKL1ihhPenQjJ1fYmoDty/edit#slide=id.p1)  
+[Clustering Notebook](https://colab.research.google.com/drive/15hjb7nYK40K1gAXgMcNn8y57fyEbfPch?authuser=1)
