@@ -36,4 +36,4 @@
 
 ## Day 9--July 7, Friday
 [Clustering Slides](https://docs.google.com/presentation/d/1Xg7m8c8uY4onKL1ihhPenQjJ1fYmoDty/edit#slide=id.p1)  
-[Clustering Notebook](https://colab.research.google.com/drive/15hjb7nYK40K1gAXgMcNn8y57fyEbfPch?authuser=1)
+[Clustering Notebook](https://drive.google.com/file/d/15hjb7nYK40K1gAXgMcNn8y57fyEbfPch/view?usp=sharing)
