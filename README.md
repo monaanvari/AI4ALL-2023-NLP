@@ -29,3 +29,7 @@
 [Conditional Probability and Naive Bayes](https://docs.google.com/presentation/d/1hT8khHz0yb7wPJewjF5PtGygGXr5y25s/edit?usp=sharing&ouid=108067746190305778838&rtpof=true&sd=true
 )<br />
 [Naive Bayes Notebook](https://colab.research.google.com/drive/1YA7nXpqcdlPPn6LyaDyKnLMSngebA6kI?usp=sharing)
+
+## Day 8--July 6, Thursday
+[Data Representation](https://docs.google.com/presentation/d/1m7hNsyyvOn0sGsBp5EWZpegs0JEq6q_G/edit#slide=id.p1)<br /> 
+[Ngram and Language Model Notebook](https://drive.google.com/file/d/1tx94FcX-oEds4RTILIHTaI-_NhGvIX9A/view?usp=sharing)
