@@ -38,6 +38,10 @@
 [Clustering Slides](https://docs.google.com/presentation/d/1Xg7m8c8uY4onKL1ihhPenQjJ1fYmoDty/edit#slide=id.p1)  
 [Clustering Notebook](https://drive.google.com/file/d/15hjb7nYK40K1gAXgMcNn8y57fyEbfPch/view?usp=sharing)
 
+## Day 10--July 10, Monday
+[Regression Slides](https://docs.google.com/presentation/d/1oFs2V4uHac0QVH6q9E7GMf1ZiHYeHeLD/edit?usp=sharing&ouid=108067746190305778838&rtpof=true&sd=true)<br /> 
+[Regression Notebook](https://drive.google.com/file/d/1NE7SW2QnvQMpFrcKtm49f5g5xLHWitiS/view?usp=sharing)
+
 ## Day 11--July 11, Tuesday
 [Classification slides](https://docs.google.com/presentation/d/1r5MXCvKXmyNONLfrG5qgnX_QwpLTNO4R/edit#slide=id.p102)  
 [Classification notebook](https://colab.research.google.com/drive/15S_xEAvq82XxYWApmTwH5MDcewfs2fDF?usp=sharing)
