@@ -19,6 +19,7 @@
 ## Day 5--Jun3 30, Friday
 [Introduction to NLP slides](https://docs.google.com/presentation/d/11wkk3da8BAitrgN_ab6b32DvU7C6Ccw_/edit#slide=id.p1).   
 [Rule Based Classifier Notebook](https://colab.research.google.com/drive/1tWKKrZVm2LE2BM5ha0BWXmgzuVU2IxEJ?authuser=1)
+[Notebook solution](https://drive.google.com/file/d/15EH7nA1b9TVIB5ws9ob0mXqom3BLG_3u/view?usp=sharing)
 
 ## Day 6--July 3, Monday
 [Evaluation Metrics slides](https://docs.google.com/presentation/d/1MXTq_ljw6YmIpsxdOSk_m0tfZYjPnJlH/edit?usp=sharing&ouid=105111448754032719430&rtpof=true&sd=true)<br />
@@ -33,6 +34,7 @@
 ## Day 8--July 6, Thursday
 [Data Representation](https://docs.google.com/presentation/d/1m7hNsyyvOn0sGsBp5EWZpegs0JEq6q_G/edit#slide=id.p1)<br /> 
 [Ngram and Language Model Notebook](https://drive.google.com/file/d/1tx94FcX-oEds4RTILIHTaI-_NhGvIX9A/view?usp=sharing)
+[Solution Notebook](https://drive.google.com/file/d/17HI4iDTsFMdY_VEwZYHEUdFBHrApihe4/view?usp=sharing)
 
 ## Day 9--July 7, Friday
 [Clustering Slides](https://docs.google.com/presentation/d/1Xg7m8c8uY4onKL1ihhPenQjJ1fYmoDty/edit#slide=id.p1)  
@@ -41,7 +43,15 @@
 ## Day 10--July 10, Monday
 [Regression Slides](https://docs.google.com/presentation/d/1oFs2V4uHac0QVH6q9E7GMf1ZiHYeHeLD/edit?usp=sharing&ouid=108067746190305778838&rtpof=true&sd=true)<br /> 
 [Regression Notebook](https://drive.google.com/file/d/1NE7SW2QnvQMpFrcKtm49f5g5xLHWitiS/view?usp=sharing)
+[Regression Solution](https://drive.google.com/file/d/1df_25PK8NZGznod5ZhiTmkwMLqzGRW05/view?usp=sharing)
 
 ## Day 11--July 11, Tuesday
 [Classification slides](https://docs.google.com/presentation/d/1r5MXCvKXmyNONLfrG5qgnX_QwpLTNO4R/edit#slide=id.p102)  
 [Classification notebook](https://colab.research.google.com/drive/15S_xEAvq82XxYWApmTwH5MDcewfs2fDF?usp=sharing)
+
+## Day 12--July 12, Wednesday
+[Neural network](https://docs.google.com/presentation/d/1SVjgaDUQ7webbD5nW3O8CZAyHL5IlyNa/edit?usp=sharing&ouid=108067746190305778838&rtpof=true&sd=true)
+[Neural network notebook](https://drive.google.com/file/d/10Z0h8FGgmSGmvgoe74FU7KTIM1-MtiSL/view?usp=sharing)
+
+# Presentation Slide
+[link](https://docs.google.com/presentation/d/1GyUfCYjEO6mZdVeb-GJII4PgQCLuuIeS/edit#slide=id.p1)
