@@ -52,6 +52,3 @@
 ## Day 12--July 12, Wednesday
 [Neural network](https://docs.google.com/presentation/d/1SVjgaDUQ7webbD5nW3O8CZAyHL5IlyNa/edit?usp=sharing&ouid=108067746190305778838&rtpof=true&sd=true)<br /> 
 [Neural network notebook](https://drive.google.com/file/d/10Z0h8FGgmSGmvgoe74FU7KTIM1-MtiSL/view?usp=sharing)
-
-# Presentation Slide
-[link](https://docs.google.com/presentation/d/1GyUfCYjEO6mZdVeb-GJII4PgQCLuuIeS/edit#slide=id.p1)
